@@ -1,4 +1,4 @@
 
-const config = { backendEndpoint: "https://travel-triangle-backend.vercel.app" };
+const config = { backendEndpoint: "https://qtrip-1.onrender.com" };
 
 export default config;
